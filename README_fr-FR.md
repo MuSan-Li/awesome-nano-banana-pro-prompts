@@ -145,7 +145,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **15768** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **samedi 10 octobre 2026 à 16:04:08 UTC** |
+| 🔄 Dernière mise à jour | **samedi 10 octobre 2026 à 20:05:17 UTC** |
 
 </div>
 
@@ -6309,6 +6309,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-10T16:04:08.505Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-10T20:05:17.165Z</sub>
 
 </div>
